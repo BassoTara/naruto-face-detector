@@ -1,0 +1,9 @@
+naruto_front
+naruto_left
+naruto_right
+sasuke_front
+sasuke_left
+sasuke_right
+sakura_front
+sakura_left
+sakura_right
